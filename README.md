@@ -73,4 +73,4 @@ This project is open-source and available under the **MIT License**.
 4. Push to the branch and create a pull request
 
 ## 💬 Contact
-For questions or feedback, reach out at [s.kongnyuy@alustudent.com](mailto:s.kongnyuy@alustudent.com@example.com)
+For questions or feedback, reach out at [s.kongnyuy@alustudent.com](mailto:s.kongnyuy@alustudent.com)
