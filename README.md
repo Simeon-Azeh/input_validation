@@ -35,7 +35,7 @@ The application follows **best practices**, including:
 ## 🛠 Installation
 1. **Clone the repository**
 ```sh
- git clone https://github.com/Simeon-Azeh/Input_validation.git
+ git clone https://github.com/Simeon-Azeh/input_validation.git
  cd flutter_form_app
 ```
 2. **Install dependencies**
